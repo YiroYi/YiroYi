@@ -1,4 +1,4 @@
-## I'm Yiro Yi (艺龙)   :airplane:
+## I'm Yiro Yi (艺龙) 👨🏽‍💻 :airplane:
 
 ![cropped](https://user-images.githubusercontent.com/19523999/128307965-f3f31cf9-077c-4bd8-8ede-dd73b0d20ff5.png)
 
@@ -25,7 +25,7 @@
 [<img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass logo" title="Sass" height="25" />][learning_next_anchor]
 &nbsp;
 
-## :wrench: Playing around & Improving:
+## :wrench: Playing around & improving:
 [<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" />][learning_next_anchor]
