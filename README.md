@@ -15,8 +15,6 @@ title="JavaScript" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Saga-282C34?logo=saga&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />][tech_tools_anchor]
-&nbsp;
 [<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=PostgreSQL&logoColor=4169E1" alt="PostgreSQL logo" title="HTML5" height="25" />][tech_tools_anchor]
