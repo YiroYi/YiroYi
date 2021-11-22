@@ -8,9 +8,10 @@
 &nbsp;
 [<img src="https://img.shields.io/badge/Ruby%20on%20Rails-282C34?logo=RubyonRails&logoColor=CC342D" alt="Ruby on rails logo" title="JavaScript" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React" title="JavaScript" height="25" />]
+[<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React" 
+title="JavaScript" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=61DAFB" alt="React" title="JavaScript" height="25" />]
+[<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=61DAFB" alt="React" title="JavaScript" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />][tech_tools_anchor]
 &nbsp;
