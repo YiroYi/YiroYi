@@ -43,7 +43,9 @@ title="JavaScript" height="25" />][tech_tools_anchor]
 ## 🌱 Learning 
 [<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />][learning_next_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Kotlin-282C34?logo=kotlin&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" />][learning_next_anchor]
+[<img src="https://img.shields.io/badge/Kotlin-282C34?logo=kotlin&logoColor=E10098" alt="Kotlin logo" title="GraphQL" height="25" />][learning_next_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=a4c639" alt="Android logo" title="GraphQL" height="25" />][learning_next_anchor]
 
 
 
