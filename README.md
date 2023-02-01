@@ -53,5 +53,3 @@ title="JavaScript" height="25" />][tech_tools_anchor]
 [learning_now_anchor]: #learning-now
 [learning_next_anchor]: #learning-next
 
-![Yiro Yi GitHub stats](https://github-readme-stats.vercel.app/api?username=yiroyi&theme=midnight-purple)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yiroyi&theme=midnight-purple)
