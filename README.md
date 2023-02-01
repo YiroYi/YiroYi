@@ -52,3 +52,5 @@ title="JavaScript" height="25" />][tech_tools_anchor]
 [tech_tools_anchor]: #hi--
 [learning_now_anchor]: #learning-now
 [learning_next_anchor]: #learning-next
+
+[![Yiro Yi GitHub stats](https://github-readme-stats.vercel.app/api?username=yiroyi)](https://github.com/anuraghazra/github-readme-stats)
