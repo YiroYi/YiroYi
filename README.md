@@ -48,9 +48,6 @@ title="JavaScript" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=a4c639" alt="Android logo" title="GraphQL" height="25" />][learning_next_anchor]
 
-
-
-
 [tech_tools_anchor]: #hi--
 [learning_now_anchor]: #learning-now
 [learning_next_anchor]: #learning-next
