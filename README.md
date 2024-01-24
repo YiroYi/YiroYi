@@ -7,7 +7,12 @@
 [<img src="https://img.shields.io/badge/Ruby-282C34?logo=ruby&logoColor=CC342D" alt="Ruby logo" title="JavaScript" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Ruby%20on%20Rails-282C34?logo=RubyonRails&logoColor=CC342D" alt="Ruby on rails logo" title="JavaScript" height="25" />][tech_tools_anchor]
+&nbsp;
 [<img src="https://img.shields.io/badge/Golang-282C34?logo=go&logoColor=61DAFB" alt="Golang logo" title="Golang" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Kotlin-282C34?logo=kotlin&logoColor=B733DF" alt="Kotlin logo" title="GraphQL" height="25" />][learning_next_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=a4c639" alt="Android logo" title="GraphQL" height="25" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=PostgreSQL&logoColor=4169E1" alt="PostgreSQL logo" title="HTML5" height="25" />][tech_tools_anchor]
 &nbsp;
@@ -45,10 +50,6 @@ title="JavaScript" height="25" />][tech_tools_anchor]
 
 ## 🌱 Learning 
 [<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />][learning_next_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Kotlin-282C34?logo=kotlin&logoColor=B733DF" alt="Kotlin logo" title="GraphQL" height="25" />][learning_next_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=a4c639" alt="Android logo" title="GraphQL" height="25" />][learning_next_anchor]
 
 [tech_tools_anchor]: #hi--
 [learning_now_anchor]: #learning-now
